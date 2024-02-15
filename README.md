@@ -5,3 +5,16 @@
 ### In this project, an artificial intelligence algorithm is used that ensures the computer has an absolute advantage. Try to beat our system - and you'll find that it's impossible to win. 
 
 ### This project is an excellent way to understand the complexity of algorithmic thinking and to see how computer programs can outperform the human mind in logic games🕹️
+
+## Execution
+### To use this interactive map, you will need to:
+1. Ensure Python is installed on your system.
+2. Install the required Python library.
+
+```bash
+pip install pygame
+```
+### To open the tictactoe window, execute the following command:
+```bash
+python runner.py
+```
