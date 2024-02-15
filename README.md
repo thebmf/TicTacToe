@@ -6,7 +6,7 @@
 
 ### This project is an excellent way to understand the complexity of algorithmic thinking and to see how computer programs can outperform the human mind in logic games🕹️
 
-
+ㅤ
 ## Execution
 ### To use this interactive map, you will need to:
 1. Ensure Python is installed on your system.
